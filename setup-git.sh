@@ -1,6 +1,6 @@
-#! /bin/bash/
+#!/bin/bash
 git config --global user.name "Dave Rench McCauley"
-git config --global user.email "drench56@gmail.com"
+git config --global user.email "11720378+emigre459@users.noreply.github.com"
 
 git config --global init.defaultBranch main
 
